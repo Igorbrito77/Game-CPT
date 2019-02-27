@@ -3,7 +3,7 @@ Jogo em python feito para o projeto Computação para Todos - UFRRJ
 
 https://computacaoparatodos.wordpress.com/
 
-https://www.facebook.com/cpt.cite
+https://www.facebook.com/cpt.citei
 
 Desafio final do projeto Computação Para Todos.
 O jogo foi entregue pré- implementado às crianças particapantes do projeto, e estas eram incubidas de terminar a implementação do mesmo.  
