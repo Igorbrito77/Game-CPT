@@ -13,7 +13,7 @@ class Jogador():
             self.pontuacao = 0
             self.velocidade = 10
 
-            self.ani = glob.glob("personagem/girl/dino_*.png")# carregamos todas as imagens para a animação do sprite
+            self.ani = glob.glob("personagem/girl/run_*.png")# carregamos todas as imagens para a animação do sprite
             self.ani.sort()
             self.ani_max = len(self.ani) -1
             self.img = pygame.image.load(self.ani[0])
